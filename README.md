@@ -57,7 +57,7 @@ The dataset contains the following features:
 
 ## Files Included
 
-* policy_dataset.xlsx – Dataset used for analysis
+* policy_dataset.xlsx – Contains dataset, pivot tables, and Excel dashboard in separate sheets
 
 ## Outcome
 
